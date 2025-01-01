@@ -87,28 +87,13 @@ The code below demonstrates how to build and evaluate a machine learning model f
 ![Image1](image1.png)
 ![Image2](image2.png)
 ![Image3](image3.png)
+![Image4](image4.png)
 
-```python
-Accuracy: 1.00
-Confusion Matrix:
-[[30  0  0]
- [ 0 30  0]
- [ 0  0 30]]
-Classification Report:
-              precision    recall  f1-score   support
-
-           0       1.00      1.00      1.00        30
-           1       1.00      1.00      1.00        30
-           2       1.00      1.00      1.00        30
-
-    accuracy                           1.00       90
-   macro avg       1.00      1.00      1.00       90
-weighted avg       1.00      1.00      1.00       90
-
-Contact
+**Contact
 For any questions or feedback, feel free to reach out to:
 
 Tejas Padaki
 Company: CODTECH IT SOLUTIONS
 Email: tejaspadaki33@gmail.com
+**
 
