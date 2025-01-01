@@ -84,6 +84,10 @@ The code below demonstrates how to build and evaluate a machine learning model f
 
 #### Example Output:
 
+![Image1](image1.png)
+![Image2](image2.png)
+![Image3](image3.png)
+
 ```python
 Accuracy: 1.00
 Confusion Matrix:
@@ -100,3 +104,11 @@ Classification Report:
     accuracy                           1.00       90
    macro avg       1.00      1.00      1.00       90
 weighted avg       1.00      1.00      1.00       90
+
+Contact
+For any questions or feedback, feel free to reach out to:
+
+Tejas Padaki
+Company: CODTECH IT SOLUTIONS
+Email: tejaspadaki33@gmail.com
+
