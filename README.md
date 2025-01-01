@@ -1,19 +1,11 @@
 # Machine Learning Model Implementation
 
-## Name: 
-Tejas Padaki
-
-## Company: 
-CODTECH IT SOLUTIONS
-
-## ID: 
-CT08EFO
-
-## Domain: 
-PYTHON PROGRAMMING
-
-## Duration: 
-17th Dec to 17th Jan
+## Developer Information
+**Name**: Tejas Padaki  
+**Company**: CODTECH IT SOLUTIONS  
+**ID**: CT08EFO  
+**Domain**: Python Programming  
+**Duration**: 17th Dec to 17th Jan  
 
 ---
 
@@ -89,11 +81,10 @@ The code below demonstrates how to build and evaluate a machine learning model f
 ![Image3](image3.png)
 ![Image4](image4.png)
 
-**Contact
+## Contact
 For any questions or feedback, feel free to reach out to:
 
-Tejas Padaki
-Company: CODTECH IT SOLUTIONS
-Email: tejaspadaki33@gmail.com
-**
+**Tejas Padaki**  
+**Company**: CODTECH IT SOLUTIONS  
+**Email**: [tejaspadaki33@gmail.com](mailto:tejaspadaki33@gmail.com)
 
