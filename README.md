@@ -2,10 +2,7 @@
 
 ## Developer Information
 **Name**: Tejas Padaki  
-**Company**: CODTECH IT SOLUTIONS  
-**ID**: CT08EFO  
-**Domain**: Python Programming  
-**Duration**: 17th Dec to 17th Jan  
+**portfolio**:https://tejas.dev.yuktiyantra.in/
 
 ---
 
@@ -85,6 +82,5 @@ The code below demonstrates how to build and evaluate a machine learning model f
 For any questions or feedback, feel free to reach out to:
 
 **Tejas Padaki**  
-**Company**: CODTECH IT SOLUTIONS  
 **Email**: [tejaspadaki33@gmail.com](mailto:tejaspadaki33@gmail.com)
 
